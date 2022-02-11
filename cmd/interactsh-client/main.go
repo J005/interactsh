@@ -10,9 +10,9 @@ import (
 
 	"github.com/projectdiscovery/goflags"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/interactsh/pkg/client"
-	"github.com/projectdiscovery/interactsh/pkg/options"
-	"github.com/projectdiscovery/interactsh/pkg/server"
+	"github.com/J005/interactsh/pkg/client"
+	"github.com/J005/interactsh/pkg/options"
+	"github.com/J005/interactsh/pkg/server"
 )
 
 func main() {
