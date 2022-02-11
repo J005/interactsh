@@ -13,7 +13,7 @@ import (
 	jsoniter "github.com/json-iterator/go"
 	"github.com/projectdiscovery/fileutil"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/interactsh/pkg/filewatcher"
+	"github.com/J005/interactsh/pkg/filewatcher"
 	"github.com/projectdiscovery/stringsutil"
 )
 
