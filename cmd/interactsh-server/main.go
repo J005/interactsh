@@ -16,10 +16,10 @@ import (
 	"github.com/projectdiscovery/goflags"
 	"github.com/projectdiscovery/gologger"
 	"github.com/projectdiscovery/gologger/levels"
-	"github.com/projectdiscovery/interactsh/pkg/options"
-	"github.com/projectdiscovery/interactsh/pkg/server"
-	"github.com/projectdiscovery/interactsh/pkg/server/acme"
-	"github.com/projectdiscovery/interactsh/pkg/storage"
+	"github.com/J005/interactsh/pkg/options"
+	"github.com/J005/interactsh/pkg/server"
+	"github.com/J005/interactsh/pkg/server/acme"
+	"github.com/J005/interactsh/pkg/storage"
 )
 
 func main() {
