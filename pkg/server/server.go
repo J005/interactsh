@@ -4,8 +4,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/projectdiscovery/interactsh/pkg/server/acme"
-	"github.com/projectdiscovery/interactsh/pkg/storage"
+	"github.com/J005/interactsh/pkg/server/acme"
+	"github.com/J005/interactsh/pkg/storage"
 )
 
 // Interaction is an interaction received to the server.
