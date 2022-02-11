@@ -97,7 +97,7 @@ func main() {
 	}
 
 	if serverOptions.Auth && serverOptions.Token == "" {
-		b := make([]byte, 32)
+		b := make([]byte, 8)
 		if _, err := rand.Read(b); err != nil {
 			gologger.Fatal().Msgf("Could not generate token\n")
 		}
