@@ -25,7 +25,7 @@ import (
 	jsoniter "github.com/json-iterator/go"
 	"github.com/pkg/errors"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/interactsh/pkg/server"
+	"github.com/J005/interactsh/pkg/server"
 	"github.com/projectdiscovery/retryablehttp-go"
 	"github.com/rs/xid"
 	"gopkg.in/corvus-ch/zbase32.v1"
